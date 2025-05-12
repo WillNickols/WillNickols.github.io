@@ -1,172 +1,167 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: William Niickols
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: William
+last_name: Nickols
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🛠️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: PhD Student in Biostatistics at Harvard
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Harvard T.H. Chan School of Public Health
+    url: https://hsph.harvard.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:willanickols@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/willnickols
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/willnickols/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - area: PhD, Biostatistics
+    institution: Harvard T.H. Chan School of Public Health
+    date_start: 2024-09-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+    summary: |
+      Research focus on developing computational methods for metagenomics, including tools for microbiome association analysis (MaAsLin 3) and longitudinal malaria tracking (DINEMITES). Collaborative work with NIH on monoclonal antibody trial analyses and strain‐sharing studies at the Ragon Institute.
+  - area: Master of Arts, Statistics
+    institution: Harvard Kenneth C. Griffin Graduate School of Arts and Sciences
+    date_start: 2020-09-01
+    date_end: 2024-05-31
+    summary: |
+      Recipient of the Department of Statistics Concurrent Masters Award (2024).
+
+work:
+  - position: Biostatistics Researcher
+    company_name: Harvard T.H. Chan School of Public Health
+    company_url: https://www.hsph.harvard.edu
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-05-01
+    date_end: ''
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Dr. Curtis Huttenhower laboratory, Department of Biostatistics, Harvard Chan Center for the Microbiome in Public Health  
+      - Built MaAsLin 3 for abundance- and prevalence-based microbiome association testing (BioConductor).  
+      - Compared taxonomic assignment tools in environmental microbiomes.  
+      - Developed `chyper` for conditional hypergeometric distributions (CRAN).  
+      - 2021 PRISE fellow; 2022 Herchel Smith Undergraduate Science Research Program scholar.  
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      Dr. Daniel Neafsey laboratory, Department of Immunology and Infectious Disease  
+      - Developed DINEMITES for distinguishing new vs. persistent malaria infections in longitudinal genotyping data (GitHub).  
+      - Collaborated with NIH biostatisticians on monoclonal antibody prevention trials.  
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+      Dr. Douglas Kwon laboratory, Ragon Institute  
+      - Analyzed >4,000 public microbiome samples to study strain sharing of vaginal species.  
+      - Led swab-to-sequencing metagenomic analysis of a South African cohort (400 samples).  
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+  - position: Stat 111 Course Assistant
+    company_name: Harvard University
+    company_url: https://www.harvard.edu
+    company_logo: ''
+    date_start: 2023-01-01
+    date_end: 2024-05-31
+    summary: |
+      - Prepared original section materials and taught weekly review sessions.  
+      - Created and delivered a 3-hour final review lecture with guided problem solving.  
+      - Hosted weekly office hours; 44/45 students rated “Excellent” overall, 41/42 “Excellent” for presentations.  
+      - Materials available at github.com/WillNickols/Stat111.  
+
+  - position: Stat 139 Course Assistant
+    company_name: Harvard University
+    company_url: https://www.harvard.edu
+    company_logo: ''
+    date_start: 2022-08-01
+    date_end: 2023-12-31
+    summary: |
+      - Developed weekly section materials and an example midterm from scratch.  
+      - Held review sessions and weekly office hours; 51/55 students rated “Excellent” overall, 47/49 “Excellent” for presentations.  
+      - Full teaching materials and student evaluations at github.com/WillNickols/Stat139.  
+
+  - position: Undergraduate Researcher
+    company_name: Buck Institute for Research on Aging
+    company_url: https://www.buckinstitute.org
+    company_logo: ''
+    date_start: 2023-06-01
+    date_end: 2023-08-31
+    summary: |
+      Dr. Kai Zhou lab for mitochondria and aging  
+      - Designed computational models of proton movement in mitochondria.  
+      - Developed 3D image analysis and high-throughput protein localization pipelines.  
+      - Built ‘omics workflows for mitoribosome data and 2D/3D visualization methods.  
+
+  - position: High School Researcher
+    company_name: University of Texas Southwestern Medical Center
+    company_url: https://www.utsouthwestern.edu
+    company_logo: ''
+    date_start: 2019-06-01
+    date_end: 2019-08-31
+    summary: |
+      Dr. Yunsun Nam laboratory, UT Southwestern Green Center for Reproductive Biology  
+      - Researched DEAD-box helicase binding to RNA G-quadruplexes through the STARS program.  
+      - Learned PCR, Western blotting, bacterial transformation, Ni-NTA purification, chromatography, EMSA, and crystal tray setup.  
+      - Presented findings at a UT Southwestern poster session and high school symposium.
+
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Phi Beta Kappa
+    date: '2023-03-15'
+    awarder: Harvard College
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Elected as one of 24 juniors into Harvard’s Alpha Iota chapter of Phi Beta Kappa, the oldest academic honor society in the United States, in recognition of exceptional breadth and depth of scholarship.
+
+- title: John Harvard Scholar
+    date: '2023-11-01'
+    awarder: Harvard College
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Recognized for achieving a GPA in the top 5% of the class at the end of each academic year:  
+      - 2020–2021  
+      - 2021–2022  
+      - 2022–2023  
+      Honorees receive the “John Harvard Scholar” distinction, reflecting sustained academic excellence.
+
+  - title: Detur Book Prize
+    date: '2022-01-15'
+    awarder: Harvard College
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Awarded to students demonstrating outstanding academic achievement in their first three semesters.  
+      Recipients are presented with an embossed book of their choice as a keepsake of scholarly distinction.
+
+  - title: Jesuit Schools Network Award
+    date: '2020-05-20'
+    awarder: Jesuit Dallas
+    summary: |
+      Presented annually by the Jesuit Schools Network to one student at each of the 52 Jesuit high schools in the U.S.  
+      Recognizes a “man for others” who exemplifies the ideals of Jesuit education through leadership, service, and character.
+
+  - title: National Merit Finalist and Scholar
+    date: '2020-01-10'
+    awarder: National Merit Scholarship Corporation
+    summary: |
+      Achieved Finalist status in the National Merit Scholarship Program based on PSAT/NMSQT performance.  
+      Subsequently awarded National Merit Scholarship recognition for academic achievement and extracurricular leadership.
+
+  - title: Eagle Scout
+    date: '2016-08-15'
+    awarder: Boy Scouts of America
+    summary: |
+      Attained the rank of Eagle Scout, the highest in the Boy Scouts of America.  
+      - Planned and led a community service project for Refugee Services of Texas: collected 900+ children’s books, built and installed a bookshelf in the Dallas office.  
+      - Earned 39 merit badges, including Citizenship in the Community, Personal Management, and Emergency Preparedness.  
+      - Held leadership roles such as Senior Patrol Leader, Patrol Leader, and Scribe.
+
 ---
 
 I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
