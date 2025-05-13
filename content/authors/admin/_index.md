@@ -1,6 +1,6 @@
 ---
 # Display name
-title: William Niickols
+title: William Nickols
 
 # Full name (for SEO)
 first_name: William
