@@ -92,7 +92,7 @@ work:
       - Created a final review and held a 3-hour review lecture with guided problem solving
       - Hosted weekly office hours
       - In official student evaluations, 44 out of 45 students rated me “Excellent” (the highest rating) overall, and 41 out of 42 students rated my lectures and presentations “Excellent”
-      - Original section and final review material are available from [GitHub](https://www.github.com/WillNickols/Stat111)
+      - Original section and final review material are available from <a href="https://www.github.com/WillNickols/Stat111" target="_blank">GitHub</a>
 
   - position: Stat 139 Course Assistant
     company_name: Harvard University
@@ -105,7 +105,7 @@ work:
       - Created an example midterm from scratch and held a review session in preparation for the class's first midterm
       - Held multiple weekly office hours
       - In official student evaluations, 51 out of 55 students rated me “Excellent” (the highest rating) overall, and 47 out of 49 students rated my lectures and presentations “Excellent”
-      - Original section and midterm materials and full evaluations including student comments are available from [GitHub](https://www.github.com/WillNickols/Stat139)
+      - Original section and midterm materials and full evaluations including student comments are available from <a href="https://www.github.com/WillNickols/Stat139" target="_blank">GitHub</a>
 
   - position: Undergraduate Researcher
     company_name: Buck Institute for Research on Aging
