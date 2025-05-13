@@ -45,6 +45,18 @@ education:
     date_end: 2024-05-31
     summary: |
       Recipient of the Department of Statistics Concurrent Masters Award (2024).
+  - area: Bachelor of Arts, Statistics & Chemical and Physical Biology, summa cum laude, highest honors
+    institution: Harvard College
+    date_start: 2024-09-01
+    date_end: 2024-05-31
+    summary: |
+      Phi Beta Kappa (Junior 24), Undergraduate Research in the Huttenhower lab, Stat 111 Course Assistant, Stat 139 Course Assistant, Cambridge After School Program, Boston Refugee Youth Enrichment program
+  - area: High School
+    institution: Jesuit Dallas
+    date_start: 2016-09-01
+    date_end: 2020-05-31
+    summary: |
+      2020 Valedictorian, student council vice president, medical society president, varsity powerlifting captain
 
 work:
   - position: Biostatistics Researcher
@@ -54,19 +66,20 @@ work:
     date_start: 2021-05-01
     date_end: ''
     summary: |
-      Dr. Curtis Huttenhower laboratory, Department of Biostatistics, Harvard Chan Center for the Microbiome in Public Health  
-      - Built MaAsLin 3 for abundance- and prevalence-based microbiome association testing (BioConductor).  
-      - Compared taxonomic assignment tools in environmental microbiomes.  
-      - Developed `chyper` for conditional hypergeometric distributions (CRAN).  
-      - 2021 PRISE fellow; 2022 Herchel Smith Undergraduate Science Research Program scholar.  
+      Dr. Curtis Huttenhower laboratory, Department of Biostatistics, Harvard Chan Center for the Microbiome in Public Health
+      - Building computational tools to discover abundance- and prevalence-based microbiome associations (maaslin3, available from BioConductor)
+      - Comparing taxonomic assignment tools in environmental microbiomes
+      - Creating software for conditional hypergeometric distributions (chyper, available from CRAN)
+      - 2021 Program for Research in Science and Engineering (PRISE) fellow
+      - 2022 Herchel Smith Undergraduate Science Research Program scholar
 
       Dr. Daniel Neafsey laboratory, Department of Immunology and Infectious Disease  
-      - Developed DINEMITES for distinguishing new vs. persistent malaria infections in longitudinal genotyping data (GitHub).  
-      - Collaborated with NIH biostatisticians on monoclonal antibody prevention trials.  
+      - Building computational tools to distinguish new vs. persistent malaria infections in longitudinal genotyping data (DINEMITES, available on GitHub)
+      - Collaborating with NIH biostatisticians on monoclonal antibody trials to prevent malaria
 
       Dr. Douglas Kwon laboratory, Ragon Institute  
-      - Analyzed >4,000 public microbiome samples to study strain sharing of vaginal species.  
-      - Led swab-to-sequencing metagenomic analysis of a South African cohort (400 samples).  
+      - Analyzing >4000 publicly available microbiome samples to determine strain sharing of vaginal species
+      - Swab to sequencing whole metagenomic analysis of 400 new samples from a South African cohort
 
   - position: Stat 111 Course Assistant
     company_name: Harvard University
@@ -75,10 +88,11 @@ work:
     date_start: 2023-01-01
     date_end: 2024-05-31
     summary: |
-      - Prepared original section materials and taught weekly review sessions.  
-      - Created and delivered a 3-hour final review lecture with guided problem solving.  
-      - Hosted weekly office hours; 44/45 students rated “Excellent” overall, 41/42 “Excellent” for presentations.  
-      - Materials available at github.com/WillNickols/Stat111.  
+      - Prepared original materials for and taught a weekly section to review and expand on class material
+      - Created a final review and held a 3-hour review lecture with guided problem solving
+      - Hosted weekly office hours
+      - In official student evaluations, 44 out of 45 students rated me “Excellent” (the highest rating) overall, and 41 out of 42 students rated my lectures and presentations “Excellent”
+      - Original section and final review material are available from [GitHub](www.github.com/WillNickols/Stat111)
 
   - position: Stat 139 Course Assistant
     company_name: Harvard University
@@ -87,9 +101,11 @@ work:
     date_start: 2022-08-01
     date_end: 2023-12-31
     summary: |
-      - Developed weekly section materials and an example midterm from scratch.  
-      - Held review sessions and weekly office hours; 51/55 students rated “Excellent” overall, 47/49 “Excellent” for presentations.  
-      - Full teaching materials and student evaluations at github.com/WillNickols/Stat139.  
+      - Prepared original materials for and taught a weekly section to review and expand on class material
+      - Created an example midterm from scratch and held a review session in preparation for the class's first midterm
+      - Held multiple weekly office hours
+      - In official student evaluations, 51 out of 55 students rated me “Excellent” (the highest rating) overall, and 47 out of 49 students rated my lectures and presentations “Excellent”
+      - Original section and midterm materials and full evaluations including student comments are available from [GitHub](www.github.com/WillNickols/Stat139)
 
   - position: Undergraduate Researcher
     company_name: Buck Institute for Research on Aging
@@ -98,10 +114,11 @@ work:
     date_start: 2023-06-01
     date_end: 2023-08-31
     summary: |
-      Dr. Kai Zhou lab for mitochondria and aging  
-      - Designed computational models of proton movement in mitochondria.  
-      - Developed 3D image analysis and high-throughput protein localization pipelines.  
-      - Built ‘omics workflows for mitoribosome data and 2D/3D visualization methods.  
+      Dr. Kai Zhou lab for mitochondria and aging
+      - Designed and parameterized computational models of proton movement in mitochondria
+      - Developed 3D image analysis methods and statistical workflows for high-throughput protein localization screens
+      - Developed ‘omics pipelines for analyzing mitoribosome data
+      - Developed 2D and 3D methods for visualizing and quantifying mitoribosome conformation changes
 
   - position: High School Researcher
     company_name: University of Texas Southwestern Medical Center
