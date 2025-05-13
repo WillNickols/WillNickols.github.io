@@ -121,8 +121,8 @@ awards:
     awarder: Harvard College
     summary: |
       Elected as one of 24 juniors into Harvard’s Alpha Iota chapter of Phi Beta Kappa, the oldest academic honor society in the United States, in recognition of exceptional breadth and depth of scholarship.
-
-- title: John Harvard Scholar
+  
+  - title: John Harvard Scholar
     date: '2023-11-01'
     awarder: Harvard College
     summary: |
@@ -164,4 +164,3 @@ awards:
 
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
